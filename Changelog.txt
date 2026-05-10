@@ -1,0 +1,30 @@
+//==================================================================================
+DRAKE FORGED TACTICAL RPG
+//==================================================================================
+Changelog V0.0.1025
+//==================================================================================
+Spicer
+//==================================================================================
+Additions
+Basic Movement, System Complete
+Basic Movement, Dash Complete
+Basic Movement, Sprint Complete
+Basic Movement, Jump Complete
+Basic Movement, 8 Directional Movement 1 Critical Bug
+Basic Title Screen Complete
+Basic Host Session Complete
+Basic Join Session Complete
+
+//**********************************************************************************
+Bug Fixes
+
+//**********************************************************************************
+Working On
+Weapons Systems
+//==================================================================================
+Current Bug List
+//==================================================================================
+1.) When strafing left and right the players character doesn't properly enter the
+    animation causing weird behavior. 
+2.) 
+//==================================================================================
